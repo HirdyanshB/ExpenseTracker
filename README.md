@@ -46,7 +46,7 @@ To run the Expense Tracker locally, follow these steps:
    - Click the **"Edit"** button next to an expense to modify its details. Update the fields and save the changes.
 
 3. **Deleting Expenses**:
-   - Click the **"Delete"** button next to an expense to remove it from the list. Confirm the deletion if prompted.
+   - Click the **"Delete"** button next to an expense to remove it from the list.
 
 4. **Total Expense**:
    - The total expenses will be automatically calculated and displayed at the top of the expense list as you add, edit, or delete entries.
