@@ -30,11 +30,11 @@ To run the Expense Tracker locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/yourusername/ExpenseTracker.git
 
 2. Navigate into the project directory:
    ```bash
-   cd expense-tracker
+   cd ExpenseTracker
 3. Open index.html in your preferred web browser.
 
 ## Usage
